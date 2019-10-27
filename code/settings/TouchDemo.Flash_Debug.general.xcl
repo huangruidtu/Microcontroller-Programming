@@ -1,0 +1,17 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\bin\armjlink2.dll" 
+
+"C:\HuangRui\study\Microcontroller Programming for Demand Response\Projekt _ Project\s181187\Final Project\arm\8.32.2\NXP\LPC24xx\IAR-LPC-2478\TouchDemo\Flash Debug\Exe\Touch_Demo.out" 
+
+--plugin="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\config\debugger\NXP\LPC24xx.dmac" 
+
+--macro="C:\HuangRui\study\Microcontroller Programming for Demand Response\Projekt _ Project\s181187\Final Project\arm\8.32.2\NXP\LPC24xx\IAR-LPC-2478\TouchDemo\config\lpc2478.mac" 
+
+--flash_loader="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\config\flashloader\NXP\FlashNXPLPC512K2.board" 
+
+
+
+

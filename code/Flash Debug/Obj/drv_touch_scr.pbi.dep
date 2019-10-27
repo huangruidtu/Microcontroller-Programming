@@ -1,0 +1,35 @@
+drv_touch_scr.pbi: \
+  C:\HuangRui\study\Microcontroller\ Programming\ for\ Demand\ Response\Projekt\ _\ Project\s181187\Final\ Project\arm\8.32.2\NXP\LPC24xx\IAR-LPC-2478\TouchDemo\modules\drv_touch_scr.c \
+  C:\HuangRui\study\Microcontroller\ Programming\ for\ Demand\ Response\Projekt\ _\ Project\s181187\Final\ Project\arm\8.32.2\NXP\LPC24xx\IAR-LPC-2478\TouchDemo\modules/drv_touch_scr.h \
+  C:\HuangRui\study\Microcontroller\ Programming\ for\ Demand\ Response\Projekt\ _\ Project\s181187\Final\ Project\arm\8.32.2\NXP\LPC24xx\IAR-LPC-2478\TouchDemo\app\includes.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdio.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Normal.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ysizet.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\string.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product_string.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ctype.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdlib.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product_stdlib.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdbool.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\limits.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\intrinsics.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\iccarm_builtin.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\iar_intrinsics_common.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\assert.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\nxp/iolpc2478.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\NXP/iolpc2470.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\io_macros.h \
+  C:\HuangRui\study\Microcontroller\ Programming\ for\ Demand\ Response\Projekt\ _\ Project\s181187\Final\ Project\arm\8.32.2\NXP\LPC24xx\IAR-LPC-2478\TouchDemo\board\arm_comm.h \
+  C:\HuangRui\study\Microcontroller\ Programming\ for\ Demand\ Response\Projekt\ _\ Project\s181187\Final\ Project\arm\8.32.2\NXP\LPC24xx\IAR-LPC-2478\TouchDemo\board\board.h \
+  C:\HuangRui\study\Microcontroller\ Programming\ for\ Demand\ Response\Projekt\ _\ Project\s181187\Final\ Project\arm\8.32.2\NXP\LPC24xx\IAR-LPC-2478\TouchDemo\board/arm_comm.h \
+  C:\HuangRui\study\Microcontroller\ Programming\ for\ Demand\ Response\Projekt\ _\ Project\s181187\Final\ Project\arm\8.32.2\NXP\LPC24xx\IAR-LPC-2478\TouchDemo\app/iar_logo.h \
+  C:\HuangRui\study\Microcontroller\ Programming\ for\ Demand\ Response\Projekt\ _\ Project\s181187\Final\ Project\arm\8.32.2\NXP\LPC24xx\IAR-LPC-2478\TouchDemo\modules\drv_glcd.h \
+  C:\HuangRui\study\Microcontroller\ Programming\ for\ Demand\ Response\Projekt\ _\ Project\s181187\Final\ Project\arm\8.32.2\NXP\LPC24xx\IAR-LPC-2478\TouchDemo\app/cursor_arrow.h \
+  C:\HuangRui\study\Microcontroller\ Programming\ for\ Demand\ Response\Projekt\ _\ Project\s181187\Final\ Project\arm\8.32.2\NXP\LPC24xx\IAR-LPC-2478\TouchDemo\board\sys.h \
+  C:\HuangRui\study\Microcontroller\ Programming\ for\ Demand\ Response\Projekt\ _\ Project\s181187\Final\ Project\arm\8.32.2\NXP\LPC24xx\IAR-LPC-2478\TouchDemo\board/board.h \
+  C:\HuangRui\study\Microcontroller\ Programming\ for\ Demand\ Response\Projekt\ _\ Project\s181187\Final\ Project\arm\8.32.2\NXP\LPC24xx\IAR-LPC-2478\TouchDemo\modules\sdram_64M_32bit_drv.h \
+  C:\HuangRui\study\Microcontroller\ Programming\ for\ Demand\ Response\Projekt\ _\ Project\s181187\Final\ Project\arm\8.32.2\NXP\LPC24xx\IAR-LPC-2478\TouchDemo\modules\drv_touch_scr.h

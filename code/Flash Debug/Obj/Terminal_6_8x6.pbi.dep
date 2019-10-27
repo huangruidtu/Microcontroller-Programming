@@ -1,0 +1,11 @@
+Terminal_6_8x6.pbi: \
+  C:\HuangRui\study\Microcontroller\ Programming\ for\ Demand\ Response\Projekt\ _\ Project\s181187\Final\ Project\arm\8.32.2\NXP\LPC24xx\IAR-LPC-2478\TouchDemo\app\Terminal_6_8x6.c \
+  C:\HuangRui\study\Microcontroller\ Programming\ for\ Demand\ Response\Projekt\ _\ Project\s181187\Final\ Project\arm\8.32.2\NXP\LPC24xx\IAR-LPC-2478\TouchDemo\modules\drv_glcd.h \
+  C:\HuangRui\study\Microcontroller\ Programming\ for\ Demand\ Response\Projekt\ _\ Project\s181187\Final\ Project\arm\8.32.2\NXP\LPC24xx\IAR-LPC-2478\TouchDemo\board\arm_comm.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\intrinsics.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\iccarm_builtin.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Normal.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\iar_intrinsics_common.h
